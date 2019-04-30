@@ -6,5 +6,5 @@ function a(x){
     }
 }
 
-var sum = a(10)(20);
+var sum = a(30)(20);
 console.log(sum);
